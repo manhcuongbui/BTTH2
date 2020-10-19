@@ -1,0 +1,13 @@
+D:\btth ki1\btth2\btth2\bin\Debug\netcoreapp3.1\btth2.exe
+D:\btth ki1\btth2\btth2\bin\Debug\netcoreapp3.1\btth2.deps.json
+D:\btth ki1\btth2\btth2\bin\Debug\netcoreapp3.1\btth2.runtimeconfig.json
+D:\btth ki1\btth2\btth2\bin\Debug\netcoreapp3.1\btth2.runtimeconfig.dev.json
+D:\btth ki1\btth2\btth2\bin\Debug\netcoreapp3.1\btth2.dll
+D:\btth ki1\btth2\btth2\bin\Debug\netcoreapp3.1\btth2.pdb
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.csprojAssemblyReference.cache
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.AssemblyInfoInputs.cache
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.AssemblyInfo.cs
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.csproj.CoreCompileInputs.cache
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.dll
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.pdb
+D:\btth ki1\btth2\btth2\obj\Debug\netcoreapp3.1\btth2.genruntimeconfig.cache
